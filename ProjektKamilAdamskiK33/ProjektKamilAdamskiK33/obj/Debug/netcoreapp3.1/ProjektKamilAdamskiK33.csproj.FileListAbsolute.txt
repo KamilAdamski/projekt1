@@ -1,0 +1,13 @@
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\bin\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.exe
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\bin\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.deps.json
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\bin\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.runtimeconfig.json
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\bin\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.runtimeconfig.dev.json
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\bin\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.dll
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\bin\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.pdb
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.csproj.CoreCompileInputs.cache
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.AssemblyInfoInputs.cache
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.AssemblyInfo.cs
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.dll
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.pdb
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.genruntimeconfig.cache
+D:\format\studia\algorytmy\projekt1\nowy\ProjektKamilAdamskiK33\ProjektKamilAdamskiK33\obj\Debug\netcoreapp3.1\ProjektKamilAdamskiK33.csprojAssemblyReference.cache
